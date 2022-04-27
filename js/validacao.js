@@ -12,6 +12,10 @@ export function valida(input) {
     }
 }
 
+const mensagensDeErro = {
+    
+}
+
 const validadores = {
     dataNascimento:input => validaDataNascimento(input)
 }
